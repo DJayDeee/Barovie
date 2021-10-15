@@ -9,7 +9,7 @@ Rendu a Barovia :
  On y rencontre Ishmark Kolianovich qui est le fils de Kolyan Indirovich (celui dont nous avons la lettre) et bourgmestre.
  Sa soeur Ireena Kolyana qui c'est fait mordre n'est pas morte et vie dans le manoir.
  Un seigneur (Strahd mais on ne dit pas son nom) possede la Barovie et attaque la ville pour obtenir Ireena.
-!-> Elle veut qu'on l'amene a Vallaky ou a l'Abey de St-Marcovia (a Krezk, totalement a l'ouest).  On choisit d'aller a Vallaky.
+!-> Elle veut qu'on l'amene a Vallaky ou a l'Abey de St-Markovia (a Krezk, totalement a l'ouest).  On choisit d'aller a Vallaky.
  On emmene a l'eglise le cadavre de Kolyan pour l'enterre.  La bas on rencontre le pere Donovich.  Il nous parle de disparition de gens.
  C'est l'eglise du Dieu de l'Aube (loyal bon).  Elle est saccage et brisee.
  De retour au village on entend des grognements dans les maisons.
@@ -57,8 +57,20 @@ Rendu a Vallaki :
   Il reconnait Ireena Kolyana.
   Urwin donne un paquet a Rictavio comme cadeau pour Blinsky.
 *4Rictavio a donne son singe a Blinsky!
-  Un pretre vient voir Zoldar et Hivgaini pour qu'il aient trouver Yan au plus vite.  Il aurait volle de quoi au sous-sol de l'eglise de Saint-Marcovia.
+  Un pretre vient voir Zoldar et Hivgaini pour qu'il aient trouver Yan au plus vite.  Il aurait volle de quoi au sous-sol de l'eglise de Saint-Andral.
   Il partent le trouver a l'aube.
   Sven nous dit qui y aura toujours un Marticov pres de nous.
-  Les 2 nobles (nicolaile et Karl) disent que le baron est demant car ca ne reflete pas ce qui ce passe en Barovie.
+  Les 2 nobles (Nicolaile et Karl) disent que le baron est demant car ca ne reflete pas ce qui ce passe en Barovie.
   Il nous propose d'aller voir ladie Watcher pour changer le pouvoir.
+  
+  
+On laisse une note a Usulrash de nous attendre a l'auberge.
+  On essaie d'aider Zoldar et Hivgaini a retrouver Yan au plus vite.
+  Il faut laisser la charette au magasin ou se trouve la caravane de Rictavio.  Ainsi on reste subtile.
+  On tombe sur des loup et nos 2 nouveaux amis son crissement pas fort.
+  On a sauve Vasily (habille en noble) et il connait Zoldar et Hivgaini.  Il va nous payer un diner.
+  Vasily et Ireena semble avoir eu un coup de foudre.
+  On arrive a une ere au bord du lac avec une plage.  Le jeune homme, Yan, a vole une relique pour aider l'orphelina.
+  Il l'a vendu a M. Henrik Vandervoort.  Les os de St-Andral et le femur de St-Markovia.  On transmet le message au pretre.
+  Il faut retrouver ses reliques.  M. Henrik Vandervoort a une boutique de cerqueil.
+  On trouve les reliques mais on a du se battre contre 5 vampires avec le femur de St-Markovia.  Cependant il s'est DESINTEGRE a la fin du combat.
