@@ -1,3 +1,5 @@
+![Strad](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi2.wp.com%2Fwww.strangeassembly.com%2Fwp-content%2Fuploads%2F2016%2F03%2FCurseofStrahd-artwork.jpg%3Ffit%3D660%252C423%26ssl%3D1%26w%3D640&imgrefurl=https%3A%2F%2Fwww.strangeassembly.com%2F2016%2Freview-curse-of-strahd-dungeons-dragons-5e&tbnid=pDLqNCmJk7L1PM&vet=12ahUKEwj6hemmvPv0AhWMrnIEHQfHB-kQMygCegUIARC9AQ..i&docid=9yH2xei3URq5SM&w=640&h=410&itg=1&q=curse%20of%20strad&ved=2ahUKEwj6hemmvPv0AhWMrnIEHQfHB-kQMygCegUIARC9AQ)
+
 # En entrant dans la Barovie :
  On croise des gitans Vistani juste avant que le paysage change.
  On trouve aussi un mort qui tient une lettre.  Il se nomme Kolyan Indirovich.  Sa fille Ireena Kolyana qui c'est fait mordre et est tres malade.
