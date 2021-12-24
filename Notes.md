@@ -104,5 +104,5 @@
 <br/>  On retourne à Valaky mais la ville est en feu.  Tous les gardes se rendent à l'église.  On y a laissé Ireena.
 <br/>  L'église est intacte mais une orde de dégeulasse nous y attent.
 <br/>  À l'auberge des Marticov Urwin nous dit qu'on a laissé la proie dans une ville désacralisé. Tatyana est Ireena.
-<br/>  
+<br/>  Nous trouverons un allié en allant vers l'ouest. À un ambranchement tourner a droite et vous trouverez une petite presque isle. Un chemin avant Krezk vers le lac Baratok.
 
