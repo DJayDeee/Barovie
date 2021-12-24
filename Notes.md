@@ -1,8 +1,10 @@
 ![Strad](http://keepontheheathlands.com/wp-content/uploads/2017/02/Curse-1.jpg)
 *******
+
 # En entrant dans la Barovie :
+ ![gate](https://github.com/DJayDeee/Barovie/blob/main/gate.jpg)
  On croise des gitans Vistani juste avant que le paysage change.
-<br/> On trouve aussi un mort qui tient une lettre, il se nomme Kolyan Indirovich.  Sa fille Ireena Kolyana qui c'est fait mordre et est tres malade.
+<br/> On trouve aussi un mort qui tient une [lettre](https://github.com/DJayDeee/Barovie/blob/main/Lettre_de_Kolyan_Indirovich.png), il se nomme Kolyan Indirovich.  Sa fille Ireena Kolyana qui c'est fait mordre et est tres malade.
 
 # Rendu a Barovia :
  On tente d'aider une folle qui pleure sa fille.  Elle tient une poupe et on peu lire sur son etiquette : Si c'est pas (...j'ai oublie), cest pas blinsky.
@@ -19,16 +21,11 @@
 
 # Au camp des Vistani (gitans qui nous ont sauves des loups garou) :
  Boris nous a sauve et amene chez les gitan, Ireena est avec madame Eva...  Elle nous lit notre avenir
-<div id='Le Tome'/>
-1. **Le Tome**      Carte 1 histoire et savoir pour mieux comprendre votre ennemie : le commercant, regarder au sorcier de la vigne, dans le bois et dans le sable un tresor se cache.
-<div id='Le Talismant'/>
-2. **Le Talismant** Carte 2 force et protection, grand espoir : le paladin, servant de la lumiere frere de la noirceur, le tresor se tiens a ses cote.
-<div id='L'epee'/>
-3. **L'epee**       Carte 3 pouvoir et force, arme de vengence-> epee de lumiere : la conjuratrice, vilage mort englouti par une riviere ou regne celui qui a amene le grand mal dans le monde.
-<div id='Allie'/>
-4. **Allie**        Carte 4 aide contre noirceur : artefact, chercher un homme divertisant avec un signe, cet homme est plus qu'il le semble.
-<div id='Strahd'/>
-5. **Strahd**       Carte 5 votre enemie est une creature de noirceur, ces pouvoirs sont audela de la mortalite cette carte vous menera a lui, la tentatrice, une place secrete voute de temptation femme d'une grande beaute le mal vous attent sous sa tour.
+1. [**Le Tome**](https://github.com/DJayDeee/Barovie/blob/main/Tome_of_Strahd_-_Plain_Text.pdf) Histoire et savoir pour mieux comprendre votre ennemie : le commercant, regarder au sorcier de la vigne, dans le bois et dans le sable un tresor se cache.
+2. **Le Talismant** Force et protection, grand espoir : le paladin, servant de la lumiere frere de la noirceur, le tresor se tiens a ses cote.
+3. **L'epee** Pouvoir et force, arme de vengence-> epee de lumiere : la conjuratrice, vilage mort englouti par une riviere ou regne celui qui a amene le grand mal dans le monde.
+4. **Allie** Aide contre noirceur : artefact, chercher un homme divertisant avec un signe, cet homme est plus qu'il le semble.
+5. **Strahd** Votre enemie est une creature de noirceur, ces pouvoirs sont audela de la mortalite cette carte vous menera a lui, la tentatrice, une place secrete voute de temptation femme d'une grande beaute le mal vous attent sous sa tour.
 
 
 # Rendu a Valaky, les gardes ne veulent pas nous ouvrir :
@@ -42,7 +39,7 @@
  On rencontre le sorcier de la vigne, il se nomme Davian Marticov.
 <br/> Il nous dit que les corbeaux nous gardent en securite car ils sont sa famille.  Ce sont des WereRavens, un clan secret qui veut detroner Strad.
 <br/> Ils possedent des graines purificatrices qui permettent aux vignes de pousser dans cette desolation.  Cependant les druides veulent ces graines.
-<br/>```1 Pour les avoir aide a defendre la vigne ils nous donne un livre, le Tome de Strad "Tome_of_Strahd_-_Plain_Text.pdf".```
+<br/>`Le Tome` Pour les avoir aide a defendre la vigne ils nous donne un livre, le Tome de Strad [Tome of Strahd](https://github.com/DJayDeee/Barovie/blob/main/Tome_of_Strahd_-_Plain_Text.pdf).
 
 
 # Sur la route vers Vallaky avec Marticov et du vin :
@@ -62,7 +59,7 @@
 <br/>  Il n'aime pas les gardiens de la plume (Marticov).  Il dit qu'ils sont de conivence avec Stradh.
 <br/>  Il reconnait Ireena Kolyana.
 <br/>  Urwin donne un paquet a Rictavio comme cadeau pour Blinsky.ef de la ge
-<br/>```4Rictavio a donne son singe a Blinsky!```
+<br/>`Allie`  Rictavio a donne son singe a Blinsky!
 <br/>  Un pretre vient voir Zoldar et Hivgaini pour qu'il aient trouver Yan au plus vite.  Il aurait volle de quoi au sous-sol de l'eglise de Saint-Andral.
 <br/>  Il partent le trouver a l'aube.
 <br/>  Sven nous dit qui y aura toujours un Marticov pres de nous.
