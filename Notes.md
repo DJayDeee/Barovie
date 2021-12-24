@@ -103,6 +103,8 @@
   Il y a une silhouette dans les braises.  C'est Gerlock pas mort!!  Il nous caste une « Delayed Blast Fireball » du calisse.
 <br/>  On retourne à Valaky mais la ville est en feu.  Tous les gardes se rendent à l'église.  On y a laissé Ireena.
 <br/>  L'église est intacte mais une orde de dégeulasse nous y attent.
-<br/>  À l'auberge des Marticov Urwin nous dit qu'on a laissé la proie dans une ville désacralisé. Tatyana est Ireena.
+<br/>  À l'auberge des Marticov Davian nous dit qu'on a laissé la proie dans une ville désacralisé. Tatyana est Ireena.
 <br/>  Nous trouverons un allié en allant vers l'ouest. À un ambranchement tourner a droite et vous trouverez une petite presque isle. Un chemin avant Krezk vers le lac Baratok.
-
+<br/>  On part en direction du lac Baratok avec Ireena mais on passe chez Vasily.
+<br/>  
+<br/>  
