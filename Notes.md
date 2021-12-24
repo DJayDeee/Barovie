@@ -1,4 +1,7 @@
 # [**Curse Of Strahd**](https://www.game-vtt.com/)
+###### Maitre de jeu : *Luc Vézina*. 
+###### Notes : *Jean-Daniel Lavoie*.
+###### Joueurs : *David, Tom et Jean-Daniel*.
 ![Strad](http://keepontheheathlands.com/wp-content/uploads/2017/02/Curse-1.jpg)
 *******
 
@@ -100,4 +103,6 @@
   Il y a une silhouette dans les braises.  C'est Gerlock pas mort!!  Il nous caste une « Delayed Blast Fireball » du calisse.
 <br/>  On retourne à Valaky mais la ville est en feu.  Tous les gardes se rendent à l'église.  On y a laissé Ireena.
 <br/>  L'église est intacte mais une orde de dégeulasse nous y attent.
-<br/>
+<br/>  À l'auberge des Marticov Urwin nous dit qu'on a laissé la proie dans une ville désacralisé. Tatyana est Ireena.
+<br/>  
+
