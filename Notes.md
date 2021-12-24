@@ -106,5 +106,5 @@
 <br/>  À l'auberge des Marticov Davian nous dit qu'on a laissé la proie dans une ville désacralisé. Tatyana est Ireena.
 <br/>  Nous trouverons un allié en allant vers l'ouest. À un ambranchement tourner a droite et vous trouverez une petite presque isle. Un chemin avant Krezk vers le lac Baratok.
 <br/>  On part en direction du lac Baratok avec Ireena mais on passe chez Vasily.
-<br/>  
+<br/>  On lui demande s'il a de l'information a propos d'un village englouti du nom de Berez.  Il veut qu'on lui ramène un crane de dragon contre du financement pour acheter une monture.
 <br/>  
