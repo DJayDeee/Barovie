@@ -28,7 +28,7 @@
 1. [**Le Tome**](https://github.com/DJayDeee/Barovie/blob/main/Tome_of_Strahd_-_Plain_Text.pdf) Histoire et savoir pour mieux comprendre votre ennemie : le commercant, regarder au sorcier de la vigne, dans le bois et dans le sable un tresor se cache.
 2. **Le Talismant** Force et protection, grand espoir : le paladin, servant de la lumiere frere de la noirceur, le tresor se tiens a ses cote.
 3. **L'epee** Pouvoir et force, arme de vengence-> epee de lumiere : la conjuratrice, vilage mort englouti par une riviere ou regne celui qui a amene le grand mal dans le monde.
-4. **Allie** Aide contre noirceur : artefact, chercher un homme divertisant avec un signe, cet homme est plus qu'il le semble.
+4. [**Allie**](https://github.com/DJayDeee/Barovie/blob/c4061ed72d3a36a9d5f406891736ef1044f0dae6/Journal_de_Van_Richten.pdf) Aide contre noirceur : artefact, chercher un homme divertisant avec un signe, cet homme est plus qu'il le semble. 
 5. **Strahd** Votre enemie est une creature de noirceur, ces pouvoirs sont audela de la mortalite cette carte vous menera a lui, la tentatrice, une place secrete voute de temptation femme d'une grande beaute le mal vous attent sous sa tour.
 
 
@@ -125,8 +125,9 @@
 *
 ####  Vampire
 *
-<br/>  Rudolph Van Richten a aussi écrit un [journal](Journal_de_Van_Richten.rtf) ou il décrit sa sombre aventure dans laquel il doit tuer son propre fils suite à la vangence des Vistani qui l'on transformé en vampire.  Rudolph c'est fait aider par un Liche et ses zombies pour tuer les Vistani.  Ses derniers l'on maudit en faisant mourir ses proches.
-<br/>  On trouve une carte ![carte de la barovie](https://cdn.discordapp.com/attachments/837467848925904936/928873052803063828/player_map_2.jpg) 
-<br/>  
-<br/>  
-<br/>  
+<br/>  Rudolph Van Richten a aussi écrit un [journal](https://github.com/DJayDeee/Barovie/blob/c4061ed72d3a36a9d5f406891736ef1044f0dae6/Journal_de_Van_Richten.pdf) ou il décrit sa sombre aventure dans laquel il doit tuer son propre fils suite à la vangence des Vistani qui l'on transformé en vampire.  Rudolph c'est fait aider par un Liche et ses zombies pour tuer les Vistani.  Ses derniers l'on maudit en faisant mourir ses proches.
+<br/>  On trouve une carte ![carte de la barovie](https://cdn.discordapp.com/attachments/837467848925904936/928873052803063828/player_map_2.jpg)
+<br/>  `Allie` Rictavio arrive à cheval.  On découvre que Rictavio n'est nul autre que Rudolph Van Richten.  Et il enlève son anneau.
+<br/>  Il nous dit que Khazan est mort après être devenu une demi-liche.
+<br/>  Les Marticov (WereRavens) font partie des gardiens de la plume qui tente de se révolter.
+<br/>  La lame de cristal est détruite et il ne reste que son pomeau perdu.
