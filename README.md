@@ -1,5 +1,5 @@
 # [**Curse Of Strahd**](https://www.game-vtt.com/)
-###### Maitre de jeu : *Luc Vézina*. 
+#### Maitre de jeu : *Luc Vézina*. 
 ###### Notes : *Jean-Daniel Lavoie*.
 ###### Joueurs : *David, Tom et Jean-Daniel.  Défunt Marc.*.
 ![Strad](http://keepontheheathlands.com/wp-content/uploads/2017/02/Curse-1.jpg)
@@ -110,11 +110,22 @@
 
 
 ## On part pour le lac Baratok :
-  On achète un cheval 300 PO mais on a eu 250 PO de Valily seulement.  
+  On achète un cheval 300 PO mais on a eu 250 PO de Vasily seulement.
 <br/>  Rendu à la tour il y a deja une caravane que semble Vistani.  On la fait exploser!!!
 <br/>  Faut résoudre une énigme pour ouvrir la porte.  On réussi et on monte mais y a personne.
-<br/>  Je trouve le guide Van Rickten des monstre par Van Rickten.
-<br/>  
+<br/>  Je trouve le Guide des monstres de Rudolph Van Richten.  J'y trouve rapidement :
+####  Guenaudes nocturne
+* **RÉSISTANTE À LA MAGIE.**
+* Peut lancer des projectiles.
+* Peut changer de plan.
+* Technique particuliere d'invasions cauchemardesques.
+####  Khazan Liche
+* Résultat d'un rituel fait par un mage de haut niveau pour obtenir la vie éternel.
+####  Loup
+*
+####  Vampire
+*
+<br/>  Rudolph Van Richten a aussi écrit un journal ou il décrit sa sombre aventure dans laquel il doit tuer son propre fils suite à la vangence des Vistani qui l'on transformé en vampire.  Rudolph c'est fait aider par un Liche et ses zombies pour tuer les Vistani.  Ses derniers l'on maudit en faisant mourir ses proches.
 <br/>  
 <br/>  
 <br/>  
