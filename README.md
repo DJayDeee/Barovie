@@ -131,3 +131,6 @@
 <br/>  Il nous dit que Khazan est mort après être devenu une demi-liche.
 <br/>  Les Marticov (WereRavens) font partie des gardiens de la plume qui tente de se révolter.
 <br/>  La lame de cristal est détruite et il ne reste que son pomeau perdu.
+<br/>  Il nous montre ou se trouve Berez sur sa carte (au sud de la Luna River, mis chemin vers la Tsolenlka Pass).  Cette ville est gardé par la 2ieme mere de Strad Baba-Lisaga.
+
+<br/>  
