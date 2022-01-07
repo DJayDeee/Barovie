@@ -126,7 +126,7 @@
 ####  Vampire
 *
 <br/>  Rudolph Van Richten a aussi écrit un journal ou il décrit sa sombre aventure dans laquel il doit tuer son propre fils suite à la vangence des Vistani qui l'on transformé en vampire.  Rudolph c'est fait aider par un Liche et ses zombies pour tuer les Vistani.  Ses derniers l'on maudit en faisant mourir ses proches.
-<br/>  
+<br/>  On trouve une [carte des lieux](https://cdn.discordapp.com/attachments/837467848925904936/928873052803063828/player_map_2.jpg) 
 <br/>  
 <br/>  
 <br/>  
