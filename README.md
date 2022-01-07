@@ -1,7 +1,7 @@
 # [**Curse Of Strahd**](https://www.game-vtt.com/)
 ###### Maitre de jeu : *Luc Vézina*. 
 ###### Notes : *Jean-Daniel Lavoie*.
-###### Joueurs : *David, Tom et Jean-Daniel*.
+###### Joueurs : *David, Tom et Jean-Daniel.  Défunt Marc.*.
 ![Strad](http://keepontheheathlands.com/wp-content/uploads/2017/02/Curse-1.jpg)
 *******
 
@@ -105,6 +105,17 @@
 <br/>  L'église est intacte mais une orde de dégeulasse nous y attent.
 <br/>  À l'auberge des Marticov Davian nous dit qu'on a laissé la proie dans une ville désacralisé. Tatyana est Ireena.
 <br/>  Nous trouverons un allié en allant vers l'ouest. À un ambranchement tourner a droite et vous trouverez une petite presque isle. Un chemin avant Krezk vers le lac Baratok.
-<br/>  On part en direction du lac Baratok avec Ireena mais on passe chez Vasily.
+<br/>  On part en direction du lac Baratok avec Ireena mais on passe chez Vasily avant.
 <br/>  On lui demande s'il a de l'information a propos d'un village englouti du nom de Berez.  Il veut qu'on lui ramène un crane de dragon contre du financement pour acheter une monture.
+
+
+## On part pour le lac Baratok :
+  On achète un cheval 300 PO mais on a eu 250 PO de Valily seulement.  
+<br/>  Rendu à la tour il y a deja une caravane que semble Vistani.  On la fait exploser!!!
+<br/>  Faut résoudre une énigme pour ouvrir la porte.  On réussi et on monte mais y a personne.
+<br/>  Je trouve le guide Van Rickten des monstre par Van Rickten.
+<br/>  
+<br/>  
+<br/>  
+<br/>  
 <br/>  
