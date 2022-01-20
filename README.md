@@ -143,4 +143,5 @@
 <br/>  Ireena (Tatyana) nous confirme qu'elle n'aime pas Strahd mais plutot Vasily.
 <br/>  Ca fait un bon mement de cela que je doute que Vasily est Sergei le frère de Strhad.
 <br/>  On s'en va porter Ireena à Krezk mais on tombe sur des crotés morts mais vivants.  Des estis! genre.
+<br/>  Gerlock leur calisse une volée mais leur mage s'envole.  On le bute tout de même!
 <br/>  
