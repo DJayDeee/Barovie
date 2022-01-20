@@ -138,4 +138,9 @@
 ## On part pour le lac Baratok :
   On se bat contre 6 loups et soudain Abygael arrive et arrête la meute et par le fait même le combat en montrant un écuson d'Émile.
 <br/>  La meute d'Émile n'aime pas Strad.  Des genre d'anti-vax.
+<br/>  L'émisaire de Strahd, Rahadin le fucké, nous laisse une lettre et nous dit de ne pas trop le faire attendre.
+<br/>  Il a faim (il nous invite pour un repas) et ne veut pas d'incident mais c'est sur qu'on y av pas avec Ireena (SON EX).
+<br/>  Ireena (Tatyana) nous confirme qu'elle n'aime pas Strahd mais plutot Vasily.
+<br/>  Ca fait un bon mement de cela que je doute que Vasily est Sergei le frère de Strhad.
+<br/>  On s'en va porter Ireena à Krezk mais on tombe sur des crotés morts mais vivants.  Des estis! genre.
 <br/>  
