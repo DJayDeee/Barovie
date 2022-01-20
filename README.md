@@ -133,4 +133,9 @@
 <br/>  La lame de cristal est détruite et il ne reste que son pomeau perdu.
 <br/>  Il nous montre ou se trouve Berez sur sa carte (au sud de la Luna River, mis chemin vers la Tsolenlka Pass).  Cette ville est gardé par la 2ieme mere de Strad Baba-Lisaga.
 
+
+
+## On part pour le lac Baratok :
+  On se bat contre 6 loups et soudain Abygael arrive et arrête la meute et par le fait même le combat en montrant un écuson d'Émile.
+<br/>  La meute d'Émile n'aime pas Strad.  Des genre d'anti-vax.
 <br/>  
