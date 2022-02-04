@@ -147,4 +147,8 @@
 
 
 
-## 
+## On s'en va à Krezk :
+  Arrivé a Krezk il ne nous laisse pas entrée et il fait très froid.  Nous devons donc redescendre et installer un campement pour la nuit.
+<br/>  Durant le tour de garde d'Uzulrash au beau milmilieu de la nuit se présente une dame frêle et son minet.
+<br/>  Elle se nomme Ginevra avec un chat et une marque au front.  Gerlock tu le chat et a ce moment le combat commence.
+<br/>  
