@@ -138,7 +138,7 @@
 ## On part pour le lac Baratok :
   On se bat contre 6 loups et soudain Abygael arrive et arrête la meute et par le fait même le combat en montrant un écuson d'Émile.
 <br/>  La meute d'Émile n'aime pas Strad.
-<br/>  L'émisaire de Strahd, Rahadin, nous laisse une lettre et nous dit de ne pas trop le faire attendre.  On entend des cris et hurlements de soufrance en échangeant la lettre. [lettre_invitation](https://github.com/DJayDeee/Barovie/blob/main/Invitation_de_Strahd.png)
+<br/>  L'émisaire de Strahd, Rahadin, nous laisse une lettre et nous dit de ne pas trop le faire attendre.  On entend des cris et hurlements de soufrance en échangeant la lettre. ![lettre_invitation](https://github.com/DJayDeee/Barovie/blob/main/Invitation_de_Strahd.png)
 <br/>  Strahd nous invite pour un repas et ne veut pas d'incident mais c'est sur qu'on préfère ne pas emmener Ireena (SON EX).
 <br/>  Ireena (Tatyana) nous confirme qu'elle n'aime pas Strahd mais plutot Vasily.
 <br/>  Ca fait un bon mement de cela que je doute que Vasily est Sergei le frère de Strhad.
