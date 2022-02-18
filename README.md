@@ -138,7 +138,7 @@
 ## On part pour le lac Baratok :
   On se bat contre 6 loups et soudain Abygael arrive et arrête la meute et par le fait même le combat en montrant un écuson d'Émile.
 <br/>  La meute d'Émile n'aime pas Strad.
-<br/>  L'émisaire de Strahd, Rahadin, nous laisse une lettre et nous dit de ne pas trop le faire attendre.  On entend des cris et hurlements de soufrance en échangeant la lettre.
+<br/>  L'émisaire de Strahd, Rahadin, nous laisse une lettre et nous dit de ne pas trop le faire attendre.  On entend des cris et hurlements de soufrance en échangeant la lettre. [lettre_invitation](https://github.com/DJayDeee/Barovie/blob/main/Invitation_de_Strahd.png)
 <br/>  Strahd nous invite pour un repas et ne veut pas d'incident mais c'est sur qu'on préfère ne pas emmener Ireena (SON EX).
 <br/>  Ireena (Tatyana) nous confirme qu'elle n'aime pas Strahd mais plutot Vasily.
 <br/>  Ca fait un bon mement de cela que je doute que Vasily est Sergei le frère de Strhad.
@@ -151,4 +151,21 @@
   Arrivé a Krezk il ne nous laisse pas entrée et il fait très froid.  Nous devons donc redescendre et installer un campement pour la nuit.
 <br/>  Durant le tour de garde d'Uzulrash au beau milmilieu de la nuit se présente une dame frêle et son minet.
 <br/>  Elle se nomme Ginevra avec un chat et une marque au front.  Gerlock tu le chat et a ce moment le combat commence.
-<br/>  
+<br/>  Ouf on les a battus.
+
+
+
+## On s'en va à Krezk (encore) :
+  Au matin on retourne à Krezk et on croise Vasili qui lui aussi y va car Vallaki n'est plus ce qu'elle était.
+<br/>  On rencontre le bourgmestre Dimitry Kreskov car il connait bien Vasili.
+<br/>  Vasili achete une maison pour Ireena a Krezk.
+<br/>  On monte à St-Markovia mais bien entendu j'ai brisé le femur.  On y rencontre Simon et l'abey, une creature céleste (un ange?).
+<br/>  Il analyse Gerlock et nous annonce qu'il c'est sacrifié pour notre cause (Ireena) et il doit aller au Amber Temple pour être délivrer de cette malédiction.
+<br/>  Il regarde Ireena et la reconnaît.
+<br/>  On rencontre Vasilka une joueuse d'harpe sublime.  Il veut la donner a Sthrad pour briser le cycle de Tatyana (Ireena).
+<br/>  Soit on attend des jours qu'il paufine son oeuvre pour la rendre sociale, soit on accélère avec l'âme de Tatiana qui est dans le corp d'Ireena.
+<br/>  Cette 2e option est inacceptable alors on va attendre quelques jours en allant au Amber Temple.
+<br/>  Il faut contourner une chaine de montagnes et passer le Lac dédier à la lune (Luna Lake).
+
+
+
