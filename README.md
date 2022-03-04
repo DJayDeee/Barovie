@@ -167,5 +167,11 @@
 <br/>  Cette 2e option est inacceptable alors on va attendre quelques jours en allant au Amber Temple.
 <br/>  Il faut contourner une chaine de montagnes et passer le Lac dédier à la lune (Luna Lake).
 
+# `On doit apporter Vasilka à Strahd lorsqu'elle sera prète mais on doit lui trouver une robe de fiancaille!`
 
-
+## On repart de Krezk :
+  On laisse Ireena avec Vasili s'acheter une maison à Krezk.
+<br/>  Pour faciliter la présentation de Vasilka à Strahd il nous faut trouver une robe de marier.
+<br/>  On va au Amber Temple par la Tsolenka Pass qui passe directement à coté du Luna Lake.
+<br/>  On se bat avec des loups et on gagne encore!  On est des pro.
+<br/>  Gerlock et Abigael voit un cheval dans le ciel qui laisse une trainée de feu derriere lui mais ne le disent pas a Magmar ni a Uzulrash.
