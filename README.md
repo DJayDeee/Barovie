@@ -175,3 +175,11 @@
 <br/>  On va au Amber Temple par la Tsolenka Pass qui passe directement à coté du Luna Lake.
 <br/>  On se bat avec des loups et on gagne encore!  On est des pro.
 <br/>  Gerlock et Abigael voit un cheval dans le ciel qui laisse une trainée de feu derriere lui mais ne le disent pas a Magmar ni a Uzulrash.
+
+
+
+## On continue de partir de Krezk :
+  Gerlock et Abigael nous disent qu'ils ont vu un cheval volant mais ça fait de sens!
+<br/>  On campe sur la route et Usulrash se met à decoudre sa robe et en sort des objets inusités (une barque!).
+<br/>  On arrive à une guerite avec du feu et des stratues d'ambre.  On se doute qu'on est sur la trace du temple d'ambre.
+<br/>  On finit par tuer les 2 Vrock.  Cependant la gate s'est fermé et nos cheveaux sont pris.
