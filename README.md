@@ -183,3 +183,17 @@
 <br/>  On campe sur la route et Usulrash se met à decoudre sa robe et en sort des objets inusités (une barque!).
 <br/>  On arrive à une guerite avec du feu et des stratues d'ambre.  On se doute qu'on est sur la trace du temple d'ambre.
 <br/>  On finit par tuer les 2 Vrock.  Cependant la gate s'est fermé et nos cheveaux sont pris.
+
+
+
+## On arrive au pont vers le ember temple, la Tsolenka Pass Bridge :
+  IL Y A LA SILHOUETTE DE STRAHD À CHEVAL AU CENTRE DU PONT.  Il se dissipe comme du sable au vent.
+<br/>  PANANNNN une créature fonce sur nous!  Elle a si peur de notre force ULTIME qu'elle se sauve de nous (Usulzu n'est même pas arrivé).
+<br/>  On arrive finalement au Ember Temple, le sand de Gerlock illumine et Abygael se transforme en loup garous.  On le bat et il retrouve sa forme humaine.
+<br/>  Uzulrash se met à casser les statues d'Ambre...  Déception ce sont de si belle statues datant de 2000 ans au moins.
+<br/>  On entre, s'est très beau et il y a de quoi d'intéressant à gauche.
+
+
+#
+#  ON PREND UNE PAUSE
+Marc s'est payé une minivan en susant David sur le side!
